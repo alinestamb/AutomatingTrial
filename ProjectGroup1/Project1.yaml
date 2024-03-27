@@ -1,0 +1,13 @@
+TeamStructure:
+- TeamName: TeamA.NonProd
+  ADGroups:
+  - Access1Priviliged
+  - Access2NonPriviliged
+- TeamName: TeamA.Prod
+  ADGroups:
+  - Access1Priviliged
+  - Access2NonPriviliged
+- TeamName: TeamA.Dev
+  ADGroups:
+  - Access1Priviliged
+  - Access2NonPriviliged
